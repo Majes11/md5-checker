@@ -18,5 +18,5 @@ python md5checktool.py example.txt 5d41402abc4b2a76b9719d911017c592
 
 This will check if the MD5 hash of example.txt matches 5d41402abc4b2a76b9719d911017c592.
 
-<h2>License</h2>h2>
+<h2>License</h2>
 This project is licensed under the MIT License.
