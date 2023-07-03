@@ -1,6 +1,6 @@
 <h1>MD5 Check Tool</h1>
 <h2>Description</h2>
-The MD5 Check Tool is a simple and efficient Python script that calculates the MD5 hash of a file and compares it with a provided MD5 hash. It's very useful for verifying the integrity of files.
+The MD5 Check Tool is a simple Python script that calculates the MD5 hash of a file to compare it to a provided MD5 hash. It's useful for verifying the integrity of files.
 
 <h2>Author</h3>
 Maik Jeschke
